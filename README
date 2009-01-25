@@ -1,0 +1,13 @@
+meggyjrserial.py
+v0.1 1/25/2009, Joshua Ruihley
+Python script to draw to Meggy Jr. RGB a grid of colors stored on web server
+
+Understanding web service output:
+Web service should serve a text file of 64 comma separated color values, 
+integers in the range of 0 to 15, based on the Meggy Jr RGB Programming Guide
+at http://www.evilmadscientist.com/classes/ProgrammingMeggyJr.pdf
+The 64 values represent the 8 rows and 8 columns on the Meggy Jr with the 
+first 8 values representing the top row, next 8 values, the second row, etc.
+
+For an example of valid web server output, see
+http://eleventy6.com/openambi/meggy_grid/getgrid.php

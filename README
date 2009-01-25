@@ -10,4 +10,4 @@ The 64 values represent the 8 rows and 8 columns on the Meggy Jr with the
 first 8 values representing the top row, next 8 values, the second row, etc.
 
 For an example of valid web server output, see
-http://eleventy6.com/openambi/meggy_grid/getgrid.php
+http://eleventy6.com/openambi/meggy_grid/get_grid.php

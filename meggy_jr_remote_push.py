@@ -1,4 +1,4 @@
-# MeggyRemoteDraw_serve.py
+# meggy_jr_remote_push.py
 #
 # Python script to serve Meggy Jr. RBG loaded with v1.3 of MeggyJr_RemoteDraw Arduino software
 # http://code.google.com/p/meggy-jr-rgb/source/browse/trunk/trunk/arduinolib/meggyjr/examples/SerialCommunication/MeggyJr_RemoteDraw
@@ -6,9 +6,7 @@
 # Version 0.1 1/24/2009
 # Copyright (c) 2009 Joshua Ruihley. All rights Reserved
 #
-# Documentation: http://eleventy6.com/
-#
-# This library is free software: you can redistribute it and/or modify
+# This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
@@ -19,7 +17,7 @@
 # GNU General Public License for more details.
 # 
 # You should have received a copy of the GNU General Public License
-# along with this library.  If not, see <http://www.gnu.org/licenses/
+# along with this library.  If not, see <http://www.gnu.org/licenses/>.
 
 import sys
 import serial
